@@ -41,7 +41,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IqranNaktare04&show_icons=true&theme=radical" alt="Iqran's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IqranNaktare04&theme=radical" alt="Iqran's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqranNaktare04&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
